@@ -1,0 +1,16 @@
+TOKEN = "7920119160:AAGtBEAc_iizus5jd95QjufmkoFUWnlIHZQ"
+
+ADMIN_ID = hnnworktg          # твой Telegram ID
+GROUP_CHAT_ID = -1001234567890  # ID группового чата
+
+TEAM_IDS = [
+    111111111,
+    222222222,
+    333333333,
+    444444444,
+    555555555,
+    666666666,
+    777777777,
+    888888888
+]
+
